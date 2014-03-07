@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebCrawleS"
+  id="myeclipse.1389576751333"
+  context-root="/WebCrawleS"
+  j2ee-spec="6.0"
+  archive="WebCrawleS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
